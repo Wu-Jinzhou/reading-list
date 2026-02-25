@@ -1023,9 +1023,3 @@
 [Deloitte Investigation | SomaliScan](https://www.somaliscan.com/investigations/deloitte)
 
 [About | SomaliScan](https://www.somaliscan.com/about)
-
-## Miscellaneous
-
-[Principal Component Analyses (PCA)-based findings in population genetic studies are highly biased and must be reevaluated - Scientific Reports](https://www.nature.com/articles/s41598-022-14395-4)
-
-[Used Citroen 2 CV Cars For Sale | Autotrader UK](https://www.autotrader.co.uk/cars/used/citroen/2-cv?refresh=true)
